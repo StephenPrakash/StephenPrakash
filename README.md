@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephenPrakash
 - 👀 I’m interested in Computers!!!!... Like a Lot.
-- 🌱 I’m currently Python
+- 🌱 I’m currently Learning Python
 - 📫 How to reach me ...
         - LinkedIn - http://www.linkedin.com/in/stephenp7
   
